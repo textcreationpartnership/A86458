@@ -1,0 +1,259 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The smoke of the bottomlesse pit. Or, A more true and fuller discovery of the doctrine of those men which call themselves Ranters: or, the Mad Crew. / By John Holland porter, an eye and ear witnesse. Licensed and entred according to order.</title>
+            <author>Holland, John, porter.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86458</idno>
+            <idno type="STC">Wing H2428</idno>
+            <idno type="STC">Thomason E622_5</idno>
+            <idno type="STC">ESTC R206430</idno>
+            <idno type="EEBO-CITATION">99865592</idno>
+            <idno type="PROQUEST">99865592</idno>
+            <idno type="VID">117838</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86458)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117838)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 95:E622[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The smoke of the bottomlesse pit. Or, A more true and fuller discovery of the doctrine of those men which call themselves Ranters: or, the Mad Crew. / By John Holland porter, an eye and ear witnesse. Licensed and entred according to order.</title>
+                  <author>Holland, John, porter.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Wright, at the Kings Head in the Old-Baylie,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Jan. 22 1650", the 51 in imprint date crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ranters --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117838:1" rendition="simple:additions"/>
+            <p>THE SMOKE OF THE Bottomleſſe Pit. OR, A More true and fuller Diſco<g ref="char:EOLhyphen"/>very of the Doctrine of thoſe men which call themſelves RANTERS: OR, The Mad Crew.</p>
+            <p>
+               <hi>By</hi> John Holland <hi>Porter, an eye and ear witneſſe.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>2 Tim. 3.1.</hi>
+               </bibl>
+               <p>This know alſo that in the laſt daies perilous times ſhall come.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>2 Pet. 2.1.</hi>
+               </bibl>
+               <p>But there were falſe Prophets alſo amongſt the people, even as there ſhall be falſe teachers amongſt you, who privily ſhall bring in damnable hereſies, even deny<g ref="char:EOLhyphen"/>ing the Lord that bought them, and bring upon themſelves ſwift deſtruction.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Phil. 3.2.</hi>
+               </bibl>
+               <p>Beware of Dogs, beware of evill workers, beware of the conciſion.</p>
+            </q>
+            <p>Licenſed and entred according to Order.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John Wright,</hi> at the Kings Head in the Old-Baylie. 1651.</p>
+         </div>
+         <div type="table_of_heretical_doctrines">
+            <pb facs="tcp:117838:2" rendition="simple:additions"/>
+            <head>The Doctrine of the RANTERS, viz.</head>
+            <list>
+               <item>FIrſt concerning God.</item>
+               <item>Secondly concerning Chriſt.</item>
+               <item>Thirdly concerning the Spirit.</item>
+               <item>Fourthly concerning the Scriptures,</item>
+               <item>Fifthly concerning the Creation.</item>
+               <item>Sixthly concerning Marriage.</item>
+               <item>Seventhly concerning the Commandments of God.</item>
+               <item>Eightly concerning Ordinances.</item>
+               <item>Ninthly concerning Sin.</item>
+               <item>Tenthly concerning Man.</item>
+               <item>Eleventh concerning the Devil.</item>
+               <item>Twelfth concerning Heaven and Hell.</item>
+               <item>Thirteenth concerning Death and Reſur<g ref="char:EOLhyphen"/>rection.</item>
+               <item>Fourteenth concerning the laſt Judgement.</item>
+            </list>
+         </div>
+         <div type="to_the_reader">
+            <pb n="1" facs="tcp:117838:2"/>
+            <head>A word to the Chriſtian READER.</head>
+            <p>AT the earneſt requeſt of divers of my friends, to whom I am much ingaged, I was unwillingly willing to publiſh to the world, the more and worſe then Atheiſtical blaſphemies of theſe men, not with any intent (the Lord knoweth) to make their perſons odious unto any, much leſſe to ſtir up any to perſecute them barely for their judgements; for when I conſider what the Scripture ſaith, I find it is not Gods method to deal with Spi<g ref="char:EOLhyphen"/>ritual enemies with carnal weapons; the way that God tooke to over-power thoſe men that were againſt the re-building of the Temple, you may read <hi>Zach. 4.6.</hi> not by might, nor by power, but by my ſpirit ſaith the Lord; and this was <hi>Pauls</hi> practice, for ſaith he, the weapons of our warfare are not carnall but mighty through God for the pulling down of ſtrong holds, <hi>2 Cor. 10.4, 5.</hi> and this <hi>Paul</hi> gave for a rule to the Saints, that if a brother be overtaken in a fault, you that are ſpiritual, reſtore ſuch a one with the ſpirit of meekneſs, conſidering thy ſelf leſt thou alſo be tem<g ref="char:EOLhyphen"/>pted, <hi>Gal. 6.1. Paul</hi> doth not ſay if a man hold an errour, impri<g ref="char:EOLhyphen"/>ſon or baniſh him, or take away his life: again <hi>Paul</hi> Propheſieth that the greateſt enemies that ever Chriſt had in the world, ſhould be deſtroyed, namely by the ſpirit of Chriſts mouth, and the brightneſs of his comming, <hi>2 Theſ. 2.8.</hi> and this truth was revealed to <hi>John</hi> in the <hi>Revelation,</hi> who tels us that the wea<g ref="char:EOLhyphen"/>pon that Chriſt fights with againſt his enemies, is the ſword that goeth out of his mouth, <hi>Rev. 19.15.</hi> and we may ſee what this ſword is, if we read, <hi>Eph. 6.17.</hi> but I ſhall ſay no more on this ſubject, leſt I make my porch too big for this houſe: Only I wiſh that thou and I may imitate our heavenly Father, who alwaies hath and ſtill doth bring light out of darkneſs, and good out of evil; and not forget the poor Bee, who can ſuck ho<g ref="char:EOLhyphen"/>ney out of the moſt ſtinking weed, ſo do thou when thou readeſt this Pamphlet, farewel.</p>
+            <closer>
+               <signed>J. HOLLAND.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:117838:3"/>
+            <head>The doctrine of the <hi>RANTERS.</hi>
+            </head>
+            <div type="part">
+               <head>Firſt concerning <hi>GOD.</hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">T</seg>Hey maintain that God is eſſentially in every creature, and that there is as much of God in one creature, as in another, though he doth not manifeſt himſelf ſo much in one as in another: I ſaw this expreſſion in a Book of theirs, that the eſſence of God was as much in the Ivie leaf, as in the moſt glorious Angel; I heard another ſay, that the eſſence of God was in that board, as much as it was in heaven; he then laying his hand on a Deal board. They all ſay there is no other God but what is in them, and alſo in the whole Creation, and that men ought to pray and ſeek to no other God but what was in them.</p>
+               <p>The titles they give God are theſe: They call him the <hi>Being,</hi> the <hi>Fulneſſe,</hi> the <hi>Great motion, Reaſon,</hi> the <hi>Immenſity:</hi> I heard a man ſwear that if there was any God at all he was one, I ſaid to him that God knew all things, and was able to do whatſoever he pleaſed, but you cannot, therefore you are not God, but a blaſphemer: Another made anſwer, he was not The GOD, but he was God, becauſe God was in him and in every creature in the world: I replyed, If God were in every creature, how then came it to paſſe, there was ſuch a difference amongſt the creatures, as there are ſome good and ſome bad, and ſome Godly men, and ſome wicked, and all ſuch good and bad are divided one againſt another, but God is undivi<g ref="char:EOLhyphen"/>ded and at unity with himſelf, therefore God eſſentially is not in every creature.</p>
+            </div>
+            <div type="part">
+               <head>Secondly concerning Chriſt.</head>
+               <p>THey ſay that Chriſt was only a form, or a ſhadow, or a fleſhly apparition of God and no more, and that what he did in way of ſuffering, was for himſelf, for none had, or ever ſhould have any benefit by his ſuffering but himſelf. That the Miniſtry of Chriſt ei<g ref="char:EOLhyphen"/>ther by himſelf, or by his Apoſtles as it is held forth in the Scri<g ref="char:EOLhyphen"/>ptures is ceaſed, as well as the Miniſtry of <hi>Aaron;</hi> others of them
+<pb n="3" facs="tcp:117838:3"/>ſay, that what Chriſt did in the fleſh, is now made over to us in the ſpirit, and that we are no more to eye or mind Chriſt that died at <hi>Jeruſalem,</hi> but we are to mind Chriſt in our ſelves; others of them ſay, that what Chriſt did in his own perſon, was onely a figure or a type of what ſhould be done and acted in every man, and that every man muſt do and ſuffer as much as Chriſt did; this is the beſt they ſay of Chriſt: I have heard ſome ſay, that if Chriſt were on earth now, he would be aſhamed of what he did before; I heard one of them ſay, it was a queſtion whether Chriſt was born of a Virgin, nay, ſaith another, he was a baſtard ſure enough, for the letter, ſaith he, (meaning the Scripture) ſaith that <hi>Mary</hi> was betro<g ref="char:EOLhyphen"/>thed to <hi>Joſeph</hi> before <hi>Jeſus</hi> was conceived in the womb. At which words I was much inraged, and began to ſpeak, intending to re<g ref="char:EOLhyphen"/>prove them, but was interrupted by one of them that ſate by, who ſwore abloudy oath, and told me I doted on a ſilly boy which was at <hi>Jeruſalem,</hi> and he alſo ſwore he knew the Lad very well, for, ſaid he, I was his Godfather; one of them met me, and ſaid he was told that I had as much wiſdome as Chriſt, I anſwered, that none but blaſphemers would ſay ſo; then he anſwered, if I had not ſo much wiſdome, he had. There was one of them did affirm to Doctor <hi>Chamberlaine,</hi> in my hearing, that every man was God as much as Chriſt, for, ſaith he, there is as much of the God-head in every man, as was in Chriſt.</p>
+            </div>
+            <div type="part">
+               <head>Thirdly, concerning the Spirit.</head>
+               <p>THey all affirme that there is but one ſpirit in the world, and thoſe names of good ſpirit, and bad ſpirit, are meere imagi<g ref="char:EOLhyphen"/>nations and ſcarcrowes to feare men withall, that they are taught and are onely under teaching of this ſpirit, and that all other tea<g ref="char:EOLhyphen"/>chings either by Scripture or otherwiſe are of no uſe to them. There was one of them ſaid in my hearing that he need not read the Scri<g ref="char:EOLhyphen"/>pture, nor heare Sermons, for the Father, the Son, and the Spirit were all three in him; and this he ſaid he could prove, but his beſt arguments were of no force in my opinion.</p>
+            </div>
+            <div type="part">
+               <head>Fourthly, concerning the Scriptures.</head>
+               <p>THe beſt they ſay of the Scripture is; That it is a Tale, a Hiſto<g ref="char:EOLhyphen"/>ry, a Letter, and a dead Letter, and more, the fleſhly Hiſtory; they call it a bundle of contradictions. I heard one ſweare it was the archeſt peece of Witchcraft that ever was <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. Another ſaid it was the greateſt curſe that ever came <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>ld, for ſai<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <pb n="4" facs="tcp:117838:4"/>he, the Scripture hath been the cauſe of all our miſery, and diviſi<g ref="char:EOLhyphen"/>ons both in Religion and civill affaires, and hath been the cauſe of all the blood, that hath been ſhed in the world; and that there would never be peace in the world, till all the Bibles in the world were burned. I heard one reaſon thus, <hi>Paul</hi> had the ſpirit of God, by which ſpirit he wrote the Scriptures; and ſaith he, I have the ſpirit, why may not I write the Scripture as well as <hi>Paul?</hi> and what I write be as binding and as infallible as that which <hi>Paul</hi> writ: Againe ſaith he, all the books of the Old and New Teſtament were directed to ſome particular Nation, or Church, or Perſons; but ſaith he, none of the Scriptures are directed, either to the Nation, or to any Church in <hi>England,</hi> or any man in <hi>England;</hi> therefore the Scriptures belong not to us, neither are they any rule for us to walk by, or to live after.</p>
+            </div>
+            <div type="part">
+               <head>Fifthly, concerning the Creation.</head>
+               <p>THey ſay that the world was created long before the time the Scripture ſpeakes of; for ſay they when <hi>Cain</hi> fled from the pre<g ref="char:EOLhyphen"/>ſence of the Lord, he went into the Land of <hi>Nod,</hi> and there he built a City, he could not build a City himſelfe, and it was needleſſe for him to build a City for his own houſhold, one houſe or tent would have ſerved him; therefore they argue that there were at that time more people in the world then <hi>Adam</hi> and <hi>Cain,</hi> though we read of no more.</p>
+            </div>
+            <div type="part">
+               <head>Sixthly, concerning marriage.</head>
+               <p>THey ſay that for one man to be tyed to one woman, or one woman to be tyed to one man, is a fruit of the curſe; but they ſay, we are freed from the curſe; therefore it is our liberty to make uſe of whom we pleaſe: I did intend to aske them how we came be freed from the curſe, but I was prevented; this opinion they infer from thoſe words of the Lord to <hi>Eve, Thy deſire ſhall be to thy huſ<g ref="char:EOLhyphen"/>band.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Seventhly, concerning the Commandements of God.</head>
+               <p>THey ſay that all the Commandements of God, both in the Old and New Teſtaments, are fruits of the curſe, and that all men being freed from the curſe, are alſo free from the Commandments. Others ſay, that all the Commandments are to bring men up to live in God, and God in them; and they ſay that we living in God, and God in us, therefore we are above all Commands whatſo<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> and furth<gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> ſay Gods will is our will, and our will is
+<pb n="5" facs="tcp:117838:4"/>Gods will; and they ſay Gods will is his law, for ſometimes he commands men to kill, to ſteale, and to lye; and at other times he commands the contrary, hereon they infer that we living in God, and God in us, why may not we do the like? and if it be a ſin to kil, to ſteale, or lye, God is the Author; for ſay they, it is his will theſe things ſhould be done, and it is by his power they are done.</p>
+            </div>
+            <div type="part">
+               <head>Eightly, concerning Ordinances.</head>
+               <p>THat Ordinances are ceaſed to them, and that they are above all ſuch weak and beggerly things as they are; that Ordinan<g ref="char:EOLhyphen"/>ces are made for weake Chriſtians, ſuch as are under the teaching of the letter, meaning the Scripture.</p>
+            </div>
+            <div type="part">
+               <head>Ninthly, concerning ſinne.</head>
+               <p>THat there is no ſuch thing as that which men call ſin, that ſin and holineſſe are all one to God, and that God delights as much in the one as in the other; and this they ſay they can prove by the Scripture, as from theſe words in the Prophet <hi>Eſay</hi> 42.16. I will make darkneſſe light before them, and <hi>Eſay</hi> 45.7. I forme the light, and creat darkneſſe, I make peace, and create evill; and in another place, he made darkneſſe his ſecret place, yea his pavilion round about him.</p>
+            </div>
+            <div type="part">
+               <head>Tenthly, concerning man.</head>
+               <p>THat man cannot either know God, or beleeve in God, or pray to God, but it is God in man that knoweth himſelf, believes in himſelf, and prayeth to himſelf; and this they infer from <hi>Gal.</hi> 2.20. Nevertheleſſe I live, yet not I, but Chriſt liveth in me, <hi>&amp;c.</hi> hence they alledge, that man differeth in nothing from the bruit beaſt, but onely that God doth manifeſt himſelf more in man, then he doth in the beaſt; that man lives and feeds on nothing but his own ex<g ref="char:EOLhyphen"/>crements, for thus they reaſon, that mans excrements dung the ground, which cauſeth the ground to bring forth Corne and Graſs, and the beaſts eat the graſſe, and we eat the Corn and the Beaſt.</p>
+            </div>
+            <div type="part">
+               <head>Eleventh, concerning the Devill.</head>
+               <p>THey ſay that the Devill is the left hand of God, or the backe part of God, or the dark part of God; that the Devil could do no evill at all, if God did not give him a power to do it, and there<g ref="char:EOLhyphen"/>fore the Devil is not ſo much in the fault, as men think he is. Nay ſaith one of them, God ſeemeth to complain much of the Devil and wicked men, then why doth not God take away that power he hath given them, and then there will be no body to trouble him; theſe
+<pb n="6" facs="tcp:117838:5"/>words made me tremble, one of them ſaid he hoped to ſee the poor Devill cleared of a great many ſlanders that had been caſt on him.</p>
+            </div>
+            <div type="part">
+               <head>Twelfth, concerning heaven and earth.</head>
+               <p>THey teach that there is neither heaven nor hell but what is in man, and that thoſe men that do ſee God to be in all things, and his will to be done by all men, though they do never ſo wicked<g ref="char:EOLhyphen"/>ly, and not apprehend any wrath to be in God, and can quietly without any check of Conſcience commit any ſin as we call it, and can ſee themſelves to be above all Ordinances, and all Commands, and that theſe men are in heaven, and heaven is in them; but thoſe men that cannot ſee and beleeve theſe things are in hell, and hell in them. I ſaw a Letter that one of them writ to a friend of his, but it never came to his hand, and at the bottom of the Letter he writ thus, <hi>From Heaven and Hell, or from</hi> Detford <hi>in the firſt yeare of my reconciliation to my ſelfe,</hi> at the beginning of the Letter, he ſaluteth his friend thus, (which I am ſorry my pen ſhould write, or my tongue ſpeake) but that I ſaw it, the words were, <hi>My pretty God, and Devill, by Gods hart and wounds I love thee</hi> and if thou wilt not beleeve me, <hi>the Devill confound thee;</hi> this Letter was written by a Frenchman then living at <hi>Detford,</hi> to one eſteemed in former times a Saint, though now one of them; when I heard the Letter, I was much troubled and ſpake in diſlike of it, but was told that there were ſpiritual truths couched in thoſe lines which I diſcerned not.</p>
+            </div>
+            <div type="part">
+               <head>Thirteenth, concerning death and reſurrection.</head>
+               <p>THat when men dye their ſpirits go into God, as the ſmall Rivers go into the Sea, and as the Sea ſends backe the ſame water again, ſometimes into one ſpring, and ſometime into another; ſo doth the ſpirits of men after they are gone into God, they return and appear ſometimes in one form or ſhape, and ſometimes in another, one wiſhed that his ſpirit might never be in the ſhape of a horſe, for ſaith he, a horſe hath the moſt toyleſome life of any Creature that is. One told me that I had been in a hundred ſhapes or formes for ought he knew, and that I ſhould be ſo again, though I was ſuch a foole I would not beleeve it.</p>
+            </div>
+            <div type="part">
+               <head>Fourteenth, concerning the laſt Judgement.</head>
+               <p>THat there is no ſuch thing as a day of judgement, but that it is onely an invented thing, to ſerve for a bugbeare to keep men in awe, yet I hear one of them ſay, the day of Judgement was begun already, and that the world had been made ma<g ref="char:EOLhyphen"/>ny thouſand millions of yeares before we read of its creation, and that it ſhall con<g ref="char:EOLhyphen"/>tinue many millions longer then we expect, but I ſay the Lord knoweth his ap<g ref="char:EOLhyphen"/>pointed time and none elſe, to him be all glory.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <head>Poſtſcript.</head>
+            <p>REader, I have not followed that orderly method I might have done, but have written the judgements of theſe men, in a confuſed manner, but I do profeſſe in the preſence of the Lord, who is the ſearcher of all hearts, I have done them no wrong in the matter of their judgement, except it be in forbearing to repeat their bloody ſwearing and curſing, and for this offence I hope thoſe that truly feare God will excuſe me. Farewell.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
